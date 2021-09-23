@@ -5,6 +5,9 @@ contributor:
     agent_name: Mercer, Joyce
     gutenberg_agent_id: '53749'
     url: http://www.gutenberg.org/2009/agents/53749
+covers:
+- cover_type: archival
+  image_path: 66321-h/images/cover.jpg
 creator:
   author:
     agent_name: Syrett, Netta
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6244
     wikipedia: https://en.wikipedia.org/wiki/Netta_Syrett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66321#Rachel-and-the-Seven-Wonders
 gutenberg_issued: '2021-09-17'
 identifiers:
   gutenberg: '66321'
